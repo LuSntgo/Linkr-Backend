@@ -49,10 +49,10 @@ Also, we recommend using a code editor such as  [VSCode](https://code.visualstud
 ```bash
 
 # Clone this repo
-$ git clone https://github.com/starunz/Linkr-Backend.git
+$ git clone https://github.com/LuSntgo/Linkr-Backend.git
 
 # Clone the front-end repository and follow the instructions to run
-$ git clone https://github.com/starunz/Linkr.git
+$ git clone https://github.com/LuSntgo/Linkr.git
 
 # change to project directory
 $ cd Linkr-Backend

@@ -78,9 +78,6 @@ CREATE DATABASE linkr;
 # Connect with the database
 \c linkr
 
-# Create the database
-./bash create-database 
-
 # Create tables
 ./bash create-database 
 

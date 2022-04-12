@@ -66,20 +66,11 @@ $ npm or yarn install
 
 ```bash
 
-# Access the postgres
-sudo su postgres
-
-# Start up psql 
-psql
-
-# Create the database
-CREATE DATABASE linkr;
-
-# Connect with the database
-\c linkr
+# change to database directory
+$ cd database
 
 # Create tables
-./bash create-database 
+bash ./create-database 
 
 ```
 
